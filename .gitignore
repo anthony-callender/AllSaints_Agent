@@ -1,0 +1,8 @@
+.env
+.secrets/
+.bin/
+work/
+downloads/
+*.token.json
+*.credentials.json
+__pycache__/

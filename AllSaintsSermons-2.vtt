@@ -1,0 +1,122 @@
+WEBVTT
+
+00:00.000 --> 00:05.000
+Step number two, extract the audio from the YouTube live stream video.
+
+00:05.000 --> 00:11.000
+Let's look at two different options for getting the service audio from the live stream video.
+
+00:11.000 --> 00:16.000
+One option is to log in to YouTube and download the video from the Church's Channel.
+
+00:16.000 --> 00:23.000
+Another option is to use a special program to directly download just the audio from YouTube.
+
+00:23.000 --> 00:32.000
+To download from the YouTube channel, first log in to YouTube using the All Saints Woodbridge at gmail.com email address.
+
+00:32.000 --> 00:42.000
+After logging in, select your videos.
+
+00:42.000 --> 00:52.000
+Then select Live Under Channel Content.
+
+00:52.000 --> 00:59.000
+Hover over the text next to the video you want to download.
+
+00:59.000 --> 01:12.000
+Then click on the three dots and select Download.
+
+01:12.000 --> 01:17.000
+The video will then be downloaded to your computer.
+
+01:17.000 --> 01:25.000
+The video will be downloaded as an MP4 file.
+
+01:25.000 --> 01:32.000
+Another option for downloading the audio from YouTube is to use the program YTDLP.
+
+01:32.000 --> 01:45.000
+This program can be downloaded from the website shown and can be downloaded as a Python script or as an executable program for different operating systems.
+
+01:45.000 --> 01:52.000
+To use this option, you will need to install the YTDLP program and at least one other helper program on your computer.
+
+01:52.000 --> 02:04.000
+If you are not comfortable with setting up software, you may want to just download service videos from YouTube and skip to the next video.
+
+02:04.000 --> 02:17.000
+On the YTDLP website, scroll down and select Installation to see the download options available.
+
+02:17.000 --> 02:22.000
+This video will demonstrate using the Windows standalone version of the program.
+
+02:22.000 --> 02:28.000
+This is listed as file yt-dlp.exe.
+
+02:28.000 --> 02:35.000
+Download this file and save it to a folder on your computer.
+
+02:35.000 --> 02:43.000
+Further down on the YTDLP website under Dependencies, it mentions the program FFMPEG.
+
+02:43.000 --> 02:50.000
+This program helps with converting audio files that are downloaded from YouTube so that they can be edited.
+
+02:50.000 --> 02:59.000
+Click the link Custom Builds to go to the FFMPEG section.
+
+02:59.000 --> 03:04.000
+This should take you to a section of the website where you can download FFMPEG software.
+
+03:04.000 --> 03:13.000
+In this example, we will select the Windows X64 download.
+
+03:14.000 --> 03:22.000
+This will download a zip file. Open the zip file, then the top level folder within the zip file, and then the bin folder.
+
+03:22.000 --> 03:31.000
+Copy the three files from the bin folder to the same folder on your computer as the YTDLP program.
+
+03:31.000 --> 03:38.000
+After the downloads, you should have these four files in the same folder.
+
+03:38.000 --> 03:45.000
+In order to download the audio using YTDLP, you need the URL of the service video on YouTube.
+
+03:45.000 --> 03:55.000
+On the Church webpage, select Listen and then Services.
+
+03:55.000 --> 04:04.000
+Then click on the Sermon video for which you want to download the audio.
+
+04:04.000 --> 04:18.000
+Once the correct video is playing, highlight the URL of the webpage and copy it to the clipboard.
+
+04:18.000 --> 04:27.000
+Next, to download the audio using YTDLP, open a command prompt, terminal, or PowerShell window.
+
+04:27.000 --> 04:37.000
+Move to the folder that has YTDLP and the other programs.
+
+04:37.000 --> 04:52.000
+Then run the YTDLP program using dash X to download the audio only and pasting in the URL you copied earlier.
+
+04:52.000 --> 05:01.000
+When you run the program, it will connect to YouTube and download the audio.
+
+05:01.000 --> 05:07.000
+For this Sermon video, it downloads a file type called Opus.
+
+05:07.000 --> 05:13.000
+Sometimes the program will download other audio file formats, such as M4A.
+
+05:13.000 --> 05:19.000
+If you encounter errors trying to download audio with YTDLP, you may need to update the software.
+
+05:19.000 --> 05:26.000
+You can do this by running the command with dash U or dash dash update.
+
+05:26.000 --> 05:33.000
+The next video will discuss editing the downloaded audio file for posting it to the Church website.
+

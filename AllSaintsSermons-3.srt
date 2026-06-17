@@ -1,0 +1,264 @@
+1
+00:00:00,000 --> 00:00:06,000
+Step number three, edit the audio to only include the sermon and make any needed adjustments.
+
+2
+00:00:06,000 --> 00:00:10,000
+There are multiple options for software to edit audio files.
+
+3
+00:00:10,000 --> 00:00:15,000
+In this video, we will use the software called Audacity.
+
+4
+00:00:15,000 --> 00:00:20,000
+Audacity is a free program available for Windows, Mac, and Linux.
+
+5
+00:00:20,000 --> 00:00:25,000
+It can be downloaded from the website AudacityTeam.org.
+
+6
+00:00:25,000 --> 00:00:33,000
+On the Audacity website, select Downloads at the top of the page.
+
+7
+00:00:33,000 --> 00:00:38,000
+Then download the version of the software for the operating system you're using.
+
+8
+00:00:38,000 --> 00:00:42,000
+You will also want to download the FF-MPEG library for Audacity.
+
+9
+00:00:42,000 --> 00:00:51,000
+Click the link under FF-MPEG library for the software and instructions.
+
+10
+00:00:51,000 --> 00:00:58,000
+Once you have downloaded and installed Audacity and FF-MPEG, run the Audacity program.
+
+11
+00:00:58,000 --> 00:01:10,000
+To edit a downloaded audio file from the program menu, select File, then Import, then Audio.
+
+12
+00:01:10,000 --> 00:01:15,000
+Audacity can import audio from both video and audio file formats.
+
+13
+00:01:15,000 --> 00:01:28,000
+Here, we will select the MP4 video file downloaded from YouTube.
+
+14
+00:01:28,000 --> 00:01:34,000
+It may take a couple minutes for Audacity to load the audio from a video file.
+
+15
+00:01:34,000 --> 00:01:40,000
+When the import is finished, you will see two channels of audio for the stereo recording made of the service.
+
+16
+00:01:40,000 --> 00:01:45,000
+To make things easier for editing, and because we really don't need stereo for what is usually one person,
+
+17
+00:01:45,000 --> 00:02:01,000
+and a spoken word recording, convert the audio from stereo to mono by selecting Tracks, then Mix, then Mix stereo down to mono.
+
+18
+00:02:01,000 --> 00:02:05,000
+Now that we have a single channel, we will normalize the volume.
+
+19
+00:02:05,000 --> 00:02:18,000
+Select Effect, and then Normalize from the menu.
+
+20
+00:02:18,000 --> 00:02:29,000
+Check the first two boxes, and enter minus 2, next to DB, and click Apply.
+
+21
+00:02:29,000 --> 00:02:34,000
+Normalizing increases the overall volume without clipping or distorting it.
+
+22
+00:02:34,000 --> 00:02:39,000
+This will make the audio easier to edit and also improve the quality.
+
+23
+00:02:39,000 --> 00:02:43,000
+At this point, we have the audio for the entire service.
+
+24
+00:02:43,000 --> 00:02:47,000
+Next, we need to find the beginning and end of the sermon within the service.
+
+25
+00:02:47,000 --> 00:02:54,000
+Most of the time, the sermon begins after the gospel reading, and the end of the sermon is followed by the nice scene creed.
+
+26
+00:02:54,000 --> 00:02:59,000
+We can click within the audio and press the Play button to listen to the various parts of the service.
+
+27
+00:02:59,000 --> 00:03:06,000
+The toolbar buttons that look like a magnifying glass with plus and minus can be used to zoom in and out on the audio.
+
+28
+00:03:06,000 --> 00:03:14,000
+Now, let's browse through the audio, searching for the start of the sermon, zooming in as necessary, and select the starting point.
+
+29
+00:03:14,000 --> 00:03:22,000
+The spacebar can also be used to start and stop the playback, and that is what we will use to test where we are as we click on various parts of the service.
+
+30
+00:03:30,000 --> 00:03:39,000
+There's King Shell C in a row.
+
+31
+00:03:39,000 --> 00:03:46,000
+Is both a former international mission.
+
+32
+00:03:46,000 --> 00:04:01,000
+Now, the Lord says, he who formed me from the womb to be his servant.
+
+33
+00:04:02,000 --> 00:04:08,000
+That's Lord for the first plan to hear.
+
+34
+00:04:08,000 --> 00:04:15,000
+The rest we shall know the joy of thee.
+
+35
+00:04:16,000 --> 00:04:41,000
+Now that we have found the start of the sermon,
+
+36
+00:04:41,000 --> 00:04:45,000
+we need to remove all the audio from the start of the recording up to this point.
+
+37
+00:04:45,000 --> 00:04:59,000
+We can do this with a program menu by going to select, then region, then track start to cursor.
+
+38
+00:05:00,000 --> 00:05:11,000
+Then, delete the selected audio by selecting edit and then delete.
+
+39
+00:05:11,000 --> 00:05:25,000
+Verify that the audio starts at the beginning of the sermon by clicking on the skip to start button and then play.
+
+40
+00:05:25,000 --> 00:05:46,000
+Next, we will use the toolbar button that zooms out to see the entire recording and then search for the end of the sermon.
+
+41
+00:05:46,000 --> 00:05:56,000
+In the diocese, through Jesus Christ, our Lord, Amen.
+
+42
+00:06:17,000 --> 00:06:35,000
+To delete the audio from this point to the end of the service, we will go to the menu and choose select and then region and then cursor to track end and then edit and delete.
+
+43
+00:06:35,000 --> 00:06:44,000
+Then, click the button to zoom out to the entire recording.
+
+44
+00:06:44,000 --> 00:06:50,000
+One thing we haven't done and that you can do at any time is to save the current state of the recording.
+
+45
+00:06:50,000 --> 00:07:04,000
+To do this from the menu, select file, then save project and then save project again.
+
+46
+00:07:04,000 --> 00:07:08,000
+There are a couple more editing steps to take before we are done.
+
+47
+00:07:08,000 --> 00:07:14,000
+First, we will compress the audio, which will even out some of the louder and softer parts of the recording.
+
+48
+00:07:14,000 --> 00:07:21,000
+To compress the audio, first make sure either no particular part of the recording is selected or select all of the recording.
+
+49
+00:07:21,000 --> 00:07:27,000
+Then, from the menu, select affect and then legacy compressor.
+
+50
+00:07:27,000 --> 00:07:38,000
+Click the presets and settings button, then factory presets and then defaults.
+
+51
+00:07:38,000 --> 00:07:51,000
+Make sure both boxes are checked at the bottom and click apply.
+
+52
+00:07:51,000 --> 00:08:12,000
+Then, normalize the audio again using the normalize effect and the same minus 2 dB value as before.
+
+53
+00:08:12,000 --> 00:08:19,000
+Now we are ready to export the audio to an MP3 file which will then be uploaded to the website.
+
+54
+00:08:20,000 --> 00:08:28,000
+From the menu, select file, then export audio.
+
+55
+00:08:28,000 --> 00:08:38,000
+We have been naming the MP3 files with the date of the recording, using a 4-digit year, 2-digit month and 2-digit day to make an 8-digit number.
+
+56
+00:08:38,000 --> 00:08:47,000
+Make sure the settings match those shown here, MP3 for the format, mono selected for channels.
+
+57
+00:08:47,000 --> 00:08:52,000
+Bitrate mode set to preset and quality set to standard.
+
+58
+00:08:52,000 --> 00:08:56,000
+Click the edit metadata button at the lower left.
+
+59
+00:08:56,000 --> 00:09:04,000
+This allows you to set properties on the MP3 file and we will use the information we copied from the online sermon form.
+
+60
+00:09:04,000 --> 00:09:12,000
+The artist name and track title are especially useful as the website will automatically read these values when the file is posted to the website.
+
+61
+00:09:12,000 --> 00:09:17,000
+Fill in the values as shown in this example.
+
+62
+00:09:42,000 --> 00:09:54,000
+Click OK on the metadata window.
+
+63
+00:09:54,000 --> 00:10:03,000
+Then, click export.
+
+64
+00:10:04,000 --> 00:10:09,000
+Now you should have an MP3 file ready to upload to the church website.
+
+65
+00:10:09,000 --> 00:10:14,000
+You may want to test the MP3 file by opening it in a player program.
+
+66
+00:10:14,000 --> 00:10:21,000
+In the next video, we will discuss posting the MP3 file to the church website.
+

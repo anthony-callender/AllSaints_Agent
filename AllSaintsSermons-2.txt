@@ -1,0 +1,40 @@
+Step number two, extract the audio from the YouTube live stream video.
+Let's look at two different options for getting the service audio from the live stream video.
+One option is to log in to YouTube and download the video from the Church's Channel.
+Another option is to use a special program to directly download just the audio from YouTube.
+To download from the YouTube channel, first log in to YouTube using the All Saints Woodbridge at gmail.com email address.
+After logging in, select your videos.
+Then select Live Under Channel Content.
+Hover over the text next to the video you want to download.
+Then click on the three dots and select Download.
+The video will then be downloaded to your computer.
+The video will be downloaded as an MP4 file.
+Another option for downloading the audio from YouTube is to use the program YTDLP.
+This program can be downloaded from the website shown and can be downloaded as a Python script or as an executable program for different operating systems.
+To use this option, you will need to install the YTDLP program and at least one other helper program on your computer.
+If you are not comfortable with setting up software, you may want to just download service videos from YouTube and skip to the next video.
+On the YTDLP website, scroll down and select Installation to see the download options available.
+This video will demonstrate using the Windows standalone version of the program.
+This is listed as file yt-dlp.exe.
+Download this file and save it to a folder on your computer.
+Further down on the YTDLP website under Dependencies, it mentions the program FFMPEG.
+This program helps with converting audio files that are downloaded from YouTube so that they can be edited.
+Click the link Custom Builds to go to the FFMPEG section.
+This should take you to a section of the website where you can download FFMPEG software.
+In this example, we will select the Windows X64 download.
+This will download a zip file. Open the zip file, then the top level folder within the zip file, and then the bin folder.
+Copy the three files from the bin folder to the same folder on your computer as the YTDLP program.
+After the downloads, you should have these four files in the same folder.
+In order to download the audio using YTDLP, you need the URL of the service video on YouTube.
+On the Church webpage, select Listen and then Services.
+Then click on the Sermon video for which you want to download the audio.
+Once the correct video is playing, highlight the URL of the webpage and copy it to the clipboard.
+Next, to download the audio using YTDLP, open a command prompt, terminal, or PowerShell window.
+Move to the folder that has YTDLP and the other programs.
+Then run the YTDLP program using dash X to download the audio only and pasting in the URL you copied earlier.
+When you run the program, it will connect to YouTube and download the audio.
+For this Sermon video, it downloads a file type called Opus.
+Sometimes the program will download other audio file formats, such as M4A.
+If you encounter errors trying to download audio with YTDLP, you may need to update the software.
+You can do this by running the command with dash U or dash dash update.
+The next video will discuss editing the downloaded audio file for posting it to the Church website.

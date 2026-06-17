@@ -1,0 +1,41 @@
+start	end	text
+0	5000	Step number two, extract the audio from the YouTube live stream video.
+5000	11000	Let's look at two different options for getting the service audio from the live stream video.
+11000	16000	One option is to log in to YouTube and download the video from the Church's Channel.
+16000	23000	Another option is to use a special program to directly download just the audio from YouTube.
+23000	32000	To download from the YouTube channel, first log in to YouTube using the All Saints Woodbridge at gmail.com email address.
+32000	42000	After logging in, select your videos.
+42000	52000	Then select Live Under Channel Content.
+52000	59000	Hover over the text next to the video you want to download.
+59000	72000	Then click on the three dots and select Download.
+72000	77000	The video will then be downloaded to your computer.
+77000	85000	The video will be downloaded as an MP4 file.
+85000	92000	Another option for downloading the audio from YouTube is to use the program YTDLP.
+92000	105000	This program can be downloaded from the website shown and can be downloaded as a Python script or as an executable program for different operating systems.
+105000	112000	To use this option, you will need to install the YTDLP program and at least one other helper program on your computer.
+112000	124000	If you are not comfortable with setting up software, you may want to just download service videos from YouTube and skip to the next video.
+124000	137000	On the YTDLP website, scroll down and select Installation to see the download options available.
+137000	142000	This video will demonstrate using the Windows standalone version of the program.
+142000	148000	This is listed as file yt-dlp.exe.
+148000	155000	Download this file and save it to a folder on your computer.
+155000	163000	Further down on the YTDLP website under Dependencies, it mentions the program FFMPEG.
+163000	170000	This program helps with converting audio files that are downloaded from YouTube so that they can be edited.
+170000	179000	Click the link Custom Builds to go to the FFMPEG section.
+179000	184000	This should take you to a section of the website where you can download FFMPEG software.
+184000	193000	In this example, we will select the Windows X64 download.
+194000	202000	This will download a zip file. Open the zip file, then the top level folder within the zip file, and then the bin folder.
+202000	211000	Copy the three files from the bin folder to the same folder on your computer as the YTDLP program.
+211000	218000	After the downloads, you should have these four files in the same folder.
+218000	225000	In order to download the audio using YTDLP, you need the URL of the service video on YouTube.
+225000	235000	On the Church webpage, select Listen and then Services.
+235000	244000	Then click on the Sermon video for which you want to download the audio.
+244000	258000	Once the correct video is playing, highlight the URL of the webpage and copy it to the clipboard.
+258000	267000	Next, to download the audio using YTDLP, open a command prompt, terminal, or PowerShell window.
+267000	277000	Move to the folder that has YTDLP and the other programs.
+277000	292000	Then run the YTDLP program using dash X to download the audio only and pasting in the URL you copied earlier.
+292000	301000	When you run the program, it will connect to YouTube and download the audio.
+301000	307000	For this Sermon video, it downloads a file type called Opus.
+307000	313000	Sometimes the program will download other audio file formats, such as M4A.
+313000	319000	If you encounter errors trying to download audio with YTDLP, you may need to update the software.
+319000	326000	You can do this by running the command with dash U or dash dash update.
+326000	333000	The next video will discuss editing the downloaded audio file for posting it to the Church website.

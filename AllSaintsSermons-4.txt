@@ -1,0 +1,52 @@
+Step number four, posting the MP3 audio file to the church website.
+If the form filled out for this sermon included a scripture reference, we will first get the scripture text so that it can be added to the website along with the audio file.
+In this video, we will use BibleGateway.com to get the scripture text.
+Enter the scripture reference and then select the English Standard Version, which is the version normally used at all saints.
+Then click the magnifying glass to retrieve the text.
+Clicking on the printer icon will display a simpler view of the text, which makes it easy to select and copy.
+Normally, we don't include the headings shown in the text and just select and copy the verses of scripture.
+Select the verses of scripture and then copy them to the clipboard.
+To save the scripture text for later, paste it into a text editor like notepad on Windows.
+To access the Squarespace website configuration pages, enter config after the church website address as shown.
+Then log in with your email address and password.
+After logging in under website, select the pages link.
+Then scroll down to find the listen section and select sermons.
+The sermon we're about to upload is from February.
+We try to keep sermons on the website for one year.
+When you are about to upload the first sermon of a month, scroll down to the bottom of the list to see if that month from the previous year should be removed.
+Use the scroll bar to scroll down to the end. You may have to do this two or three times to get to the very end.
+Here we see that there are still some sermons from January as well as February from the previous year.
+To remove these older sermons, start by clicking on the oldest one.
+Then to select additional sermons to remove, hold down the shift key and click on the others one at a time.
+Then click on the remove button near the bottom.
+Click confirm.
+You can check that the sermons have been removed by scrolling down to the bottom again.
+Return to the top of the list.
+Then click the plus sign to add a new sermon.
+For the title of the post, enter the sermon title from the online sermon form.
+When you hover over the body of the post, you will see plus signs that allow you to add content to the post.
+Click on the plus sign at the very top to add a new text object.
+In this new line of text, enter the date of the sermon.
+Then click the plus sign under the text and select audio.
+Sometimes clicking this icon to upload doesn't work well.
+We will instead drag and drop the MP3 file into this section of the page.
+The MP3 file will upload.
+When it is finished uploading, it should read the title and speaker data from the metadata you entered in the Audacity program.
+Next, to provide a download link, select the design tab at the top. Then select show download link and click apply.
+To add the scripture reference, click the plus sign immediately under the audio object.
+Select mock down.
+This will allow you to add formatted text, start by adding the scripture book and verse information.
+Then copy over the scripture verses.
+To add some formatting, first we will make the heading display in bold text after adding ESV after it to show that this is from the ESV translation.
+Then to make the verse numbers display as smaller text and shown slightly above the rest of the text or in superscript, we will add soup tags around each verse number as shown.
+Click apply to save the mark down object.
+Now click the options tab.
+We need to change the author value from our name to the speakers name. Click on the author field and select the speaker from the list if it exists. In this case, we will just select guest speaker.
+Now click save and publish to save this new post and make it available for people to see.
+When the post is saved, at first it will have today's date shown. We will need to change it to the actual date of the service. Click the edit button next to the sermon.
+Then click the date and time under published and change it to the date and time of the service.
+Click save to save the changes.
+The sermon posting should now be complete. You may want to test the recording by clicking the play button and then clicking forward to different sections.
+Good morning everyone. You may be seated. I am a little horse today. I knew I wasn't preaching this morning and so I yelled louder than I do.
+It's coming to pick up ball jars of clippings. We're always visiting people eaters. God governs his people with justice. He shows me. We are the laborers.
+The laborers have sent my prayer for you. You, oh God, are the living word presence. Encourage us to search for you and to let our searching help others find you through Jesus Christ our Lord. Amen.

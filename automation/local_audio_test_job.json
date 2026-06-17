@@ -1,0 +1,16 @@
+{
+  "service_date": "2026-06-07",
+  "service_title": "Automation Test",
+  "sermon_title": "Local Audio Test",
+  "preacher": "Test Speaker",
+  "scripture_reference": "",
+  "scripture_text": "",
+  "youtube_url": "",
+  "source_file": "AllSaintsYouTube.mp4",
+  "start_time": "00:00:00",
+  "end_time": "00:00:05",
+  "youtube_video_url": "",
+  "youtube_thumbnail_file": "",
+  "notes": "Short local test job for verifying the MP3 processing pipeline."
+}
+

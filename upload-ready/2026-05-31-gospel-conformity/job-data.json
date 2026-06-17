@@ -1,0 +1,21 @@
+{
+  "service_date": "2026-05-31",
+  "service_title": "Trinity Sunday 2026",
+  "sermon_title": "Gospel Conformity",
+  "preacher": "Scott",
+  "scripture_reference": "2 Corinthians 13:5-14",
+  "scripture_text": "",
+  "youtube_url": "https://www.youtube.com/watch?v=6vWOq_VIX7E",
+  "source_file": ".\\downloads\\20260601-6vWOq_VIX7E.webm",
+  "start_time": "00:21:35.880",
+  "end_time": "00:46:56.710",
+  "youtube_video_url": "https://www.youtube.com/watch?v=6vWOq_VIX7E",
+  "youtube_thumbnail_file": "",
+  "notes": "Preferred Time: 11:00 AM\n\nAudio cleanup note: use the clean MP3 candidate. It removes the compressor stage that may have boosted room echo later in the sermon.\n\nCreated from discovery status: needs_sermon_post. Public website has no matching sermon post for this service date. Inferred Sunday service date from Monday YouTube publish date 2026-06-01.",
+  "boundary_detection": {
+    "confidence": "high",
+    "start_reason": "Found sermon-start cue 'you may be seated' at 00:21:36.880.",
+    "end_reason": "Found post-sermon cue 'we believe in one god' at 00:47:01.109."
+  },
+  "audio_file": "C:\\Users\\minec\\OneDrive\\Desktop\\transcribe\\work\\20260531-gospel-conformity-clean.mp3"
+}

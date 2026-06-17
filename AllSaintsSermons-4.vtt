@@ -1,0 +1,158 @@
+WEBVTT
+
+00:00.000 --> 00:06.000
+Step number four, posting the MP3 audio file to the church website.
+
+00:06.000 --> 00:15.000
+If the form filled out for this sermon included a scripture reference, we will first get the scripture text so that it can be added to the website along with the audio file.
+
+00:15.000 --> 00:20.000
+In this video, we will use BibleGateway.com to get the scripture text.
+
+00:20.000 --> 00:28.000
+Enter the scripture reference and then select the English Standard Version, which is the version normally used at all saints.
+
+00:30.000 --> 00:50.000
+Then click the magnifying glass to retrieve the text.
+
+00:50.000 --> 00:59.000
+Clicking on the printer icon will display a simpler view of the text, which makes it easy to select and copy.
+
+00:59.000 --> 01:05.000
+Normally, we don't include the headings shown in the text and just select and copy the verses of scripture.
+
+01:05.000 --> 01:18.000
+Select the verses of scripture and then copy them to the clipboard.
+
+01:18.000 --> 01:25.000
+To save the scripture text for later, paste it into a text editor like notepad on Windows.
+
+01:25.000 --> 01:32.000
+To access the Squarespace website configuration pages, enter config after the church website address as shown.
+
+01:32.000 --> 01:36.000
+Then log in with your email address and password.
+
+01:36.000 --> 01:47.000
+After logging in under website, select the pages link.
+
+01:47.000 --> 02:02.000
+Then scroll down to find the listen section and select sermons.
+
+02:02.000 --> 02:05.000
+The sermon we're about to upload is from February.
+
+02:05.000 --> 02:09.000
+We try to keep sermons on the website for one year.
+
+02:09.000 --> 02:17.000
+When you are about to upload the first sermon of a month, scroll down to the bottom of the list to see if that month from the previous year should be removed.
+
+02:17.000 --> 02:32.000
+Use the scroll bar to scroll down to the end. You may have to do this two or three times to get to the very end.
+
+02:32.000 --> 02:37.000
+Here we see that there are still some sermons from January as well as February from the previous year.
+
+02:37.000 --> 02:44.000
+To remove these older sermons, start by clicking on the oldest one.
+
+02:44.000 --> 02:52.000
+Then to select additional sermons to remove, hold down the shift key and click on the others one at a time.
+
+03:02.000 --> 03:15.000
+Then click on the remove button near the bottom.
+
+03:15.000 --> 03:19.000
+Click confirm.
+
+03:19.000 --> 03:35.000
+You can check that the sermons have been removed by scrolling down to the bottom again.
+
+03:35.000 --> 03:41.000
+Return to the top of the list.
+
+03:41.000 --> 03:47.000
+Then click the plus sign to add a new sermon.
+
+03:47.000 --> 04:05.000
+For the title of the post, enter the sermon title from the online sermon form.
+
+04:05.000 --> 04:11.000
+When you hover over the body of the post, you will see plus signs that allow you to add content to the post.
+
+04:11.000 --> 04:23.000
+Click on the plus sign at the very top to add a new text object.
+
+04:23.000 --> 04:37.000
+In this new line of text, enter the date of the sermon.
+
+04:37.000 --> 04:46.000
+Then click the plus sign under the text and select audio.
+
+04:46.000 --> 04:50.000
+Sometimes clicking this icon to upload doesn't work well.
+
+04:50.000 --> 05:06.000
+We will instead drag and drop the MP3 file into this section of the page.
+
+05:06.000 --> 05:09.000
+The MP3 file will upload.
+
+05:09.000 --> 05:22.000
+When it is finished uploading, it should read the title and speaker data from the metadata you entered in the Audacity program.
+
+05:22.000 --> 05:36.000
+Next, to provide a download link, select the design tab at the top. Then select show download link and click apply.
+
+05:36.000 --> 05:46.000
+To add the scripture reference, click the plus sign immediately under the audio object.
+
+05:46.000 --> 05:54.000
+Select mock down.
+
+05:54.000 --> 06:11.000
+This will allow you to add formatted text, start by adding the scripture book and verse information.
+
+06:11.000 --> 06:33.000
+Then copy over the scripture verses.
+
+06:33.000 --> 06:51.000
+To add some formatting, first we will make the heading display in bold text after adding ESV after it to show that this is from the ESV translation.
+
+06:51.000 --> 07:03.000
+Then to make the verse numbers display as smaller text and shown slightly above the rest of the text or in superscript, we will add soup tags around each verse number as shown.
+
+07:21.000 --> 07:41.000
+Click apply to save the mark down object.
+
+07:41.000 --> 07:47.000
+Now click the options tab.
+
+07:47.000 --> 08:06.000
+We need to change the author value from our name to the speakers name. Click on the author field and select the speaker from the list if it exists. In this case, we will just select guest speaker.
+
+08:06.000 --> 08:13.000
+Now click save and publish to save this new post and make it available for people to see.
+
+08:13.000 --> 08:26.000
+When the post is saved, at first it will have today's date shown. We will need to change it to the actual date of the service. Click the edit button next to the sermon.
+
+08:26.000 --> 08:43.000
+Then click the date and time under published and change it to the date and time of the service.
+
+08:43.000 --> 08:53.000
+Click save to save the changes.
+
+08:53.000 --> 09:06.000
+The sermon posting should now be complete. You may want to test the recording by clicking the play button and then clicking forward to different sections.
+
+09:06.000 --> 09:18.000
+Good morning everyone. You may be seated. I am a little horse today. I knew I wasn't preaching this morning and so I yelled louder than I do.
+
+09:18.000 --> 09:29.000
+It's coming to pick up ball jars of clippings. We're always visiting people eaters. God governs his people with justice. He shows me. We are the laborers.
+
+09:29.000 --> 09:50.000
+The laborers have sent my prayer for you. You, oh God, are the living word presence. Encourage us to search for you and to let our searching help others find you through Jesus Christ our Lord. Amen.
+
